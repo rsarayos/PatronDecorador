@@ -20,6 +20,8 @@ public class pruebas {
     public static void main(String[] args) {
         
         System.out.println("Prueba 1: Crear una bebida con un condimento");
+        System.out.println("prueba");
+        System.out.println("");
         
     }
     
